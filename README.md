@@ -1,0 +1,3 @@
+# Automatización de Mapas de Brechas de Evidencia (Evidence Gap Maps)
+
+Este proyecto tiene como objetivo lograr la elaboración de Mpas de Brechas de Evidencia (MBE) sobre cualquier tema de interés para políticas públicas de manera totalmente automática, desde la consecución de la literatura científica, hasta el análisis, filtro y clasificación de la misma, presentando todo en un dashboard interactivo.
